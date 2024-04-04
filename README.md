@@ -1,6 +1,6 @@
 # ML.Pro
 
-<Your-Library-Name> is a machine learning software library designed for comprehensive and versatile data analysis, optimization, and predictive modeling. Built with robust class design principles including encapsulation, inheritance, and polymorphism, it offers scalable and feasible data processing pipelines suitable for a wide range of applications.
+MLPro is a machine learning software library designed for comprehensive and versatile data analysis, optimization, and predictive modeling. Built with robust class design principles including encapsulation, inheritance, and polymorphism, it offers scalable and feasible data processing pipelines suitable for a wide range of applications.
 
 ## Features
 
